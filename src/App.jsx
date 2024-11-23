@@ -8,7 +8,6 @@ import UserDelete from './UserDelete.jsx'
 import { UserProvider } from './context/UserContext'
 
 const App = () => {
- 
 
   const addUser = async newUser => {
     try {
